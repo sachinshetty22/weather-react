@@ -1,0 +1,21 @@
+{
+    "01d": "wi-day-sunny",
+    "01n": "wi-night-clear",
+    "02d": "wi-day-cloudy",
+    "02n": "wi-night-alt-cloudy",
+    "03d": "wi-cloud",
+    "03n": "wi-cloud",
+    "04d": "wi-cloudy",
+    "04n": "wi-cloudy",
+    "09d": "wi-day-showers",
+    "09n": "wi-night-showers",
+    "10d": "wi-day-sleet",
+    "10n": "wi-night-sleet",
+    "11d": "wi-thunderstorm",
+    "11n": "wi-thunderstorm",
+    "13d": "wi-snowflake-cold",
+    "13n": "wi-snowflake-cold",
+    "50d": "wi-dust",
+    "50n": "wi-dust"
+    
+}

@@ -1,0 +1,109 @@
+.hero {
+    background-color: #8e44ad;
+    color: #fff;
+    padding: 20px;
+    /*margin-top: 50px;*/
+}
+.subtext{
+    font-size: 20px;
+}
+.subtext-buttom{
+    font-size: 40px;
+}
+#maintemp {
+    font-size: 200px;
+}
+.mainsym
+{
+    font-size: 120px;
+}
+.typebutton{
+    align-items: baseline;
+}
+.hero{
+    margin-bottom: 2px;
+}
+
+.hero .typebutton{
+
+       position: relative;
+   
+    bottom: 113px;
+
+}
+
+.mainsym .wi{
+
+    position: relative;
+    bottom: 91px;
+}
+.sub-block{
+    padding: 10px;
+color: #fff;
+margin: 2px;
+
+}
+.sub-block .symb .wi{
+    font-size: 60px;
+}
+.sub-block .symb .symbtitle{
+    padding-top: 10px;
+    font-size: 25px;
+}
+.sub-block .range{
+    font-size: 30px;
+}
+
+.sub-block-1{
+    background-color: #e74c3c;
+}
+.sub-block-2{
+    background-color: #f39c12;
+}
+.sub-block-3{
+    background-color: #27ae60;
+}
+.sub-block-4{
+    background-color: #16a085;
+}
+
+ @media (min-width: 992px) { 
+.sub-block{
+  width: 49.5%;
+}
+ }
+
+@media (min-width: 1200px) { 
+    .sub-block{
+  width: 24.5%;
+}
+
+ }
+
+
+
+@media screen and (max-width: 550px){
+.mainsym .wi {
+    position: relative;
+    bottom: 49px;
+     right: 0; 
+    font-size: 59px;
+}
+
+#maintemp {
+    font-size: 96px;
+}
+
+.mainsym {
+    font-size: 48px;
+}
+
+.hero .typebutton {
+    position: relative;
+    bottom: 59px;
+   left: 0px; 
+}
+
+
+}
+

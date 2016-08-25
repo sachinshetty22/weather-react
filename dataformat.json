@@ -1,0 +1,52 @@
+{
+    "hero": {
+        "currenttemp": 33,
+        "city": "Bangalore",
+        "type": "C",
+        "condition": "Clear Sky",
+        "conditioncode": "01d",
+        "conditionicon": "wi-day-sunny"
+    },
+    "forecast": [
+        {
+            "date": "Thu 25",
+            "type": "C",
+            "min": "22",
+            "max": "32",
+            "condition": "Few Clouds",
+            "conditioncode": "02d",
+            "conditionicon": "wi-day-cloudy",
+            "backgroundColor": "#e74c3c"
+        },
+        {
+            "date": "Fri 26",
+            "type": "C",
+            "min": "24",
+            "max": "34",
+            "condition": "Clear Sky",
+            "conditioncode": "01d",
+            "conditionicon": "wi-day-sunny",
+            "backgroundColor": "#f39c12"
+        },
+        {
+            "date": "Sat 27",
+            "type": "C",
+            "min": "20",
+            "max": "28",
+            "condition": "Broken Clouds",
+            "conditioncode": "04d",
+            "conditionicon": "wi-cloudy",
+            "backgroundColor": "#27ae60"
+        },
+        {
+            "date": "Sun 28",
+            "type": "C",
+            "min": "20",
+            "max": "27",
+            "condition": "Thunderstorm",
+            "conditioncode": "11d",
+            "conditionicon": "wi-thunderstorm",
+            "backgroundColor": "#16a085"
+        }
+    ]
+}

@@ -8,7 +8,6 @@ export default class Home extends React.Component {
       <div>
         <Hero></Hero>
         <Subblock backgroundcolor="#e74c3c"></Subblock>
-        <Subblock backgroundcolor="#f39c12"></Subblock>
         <Subblock backgroundcolor="#27ae60"></Subblock>
         <Subblock backgroundcolor="#16a085"></Subblock>
       </div>
